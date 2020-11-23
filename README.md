@@ -1,6 +1,4 @@
-# PA002_blocker_fraud_company
-
-This project contains the solution for this business case (in portuguese): https://bit.ly/34V6Wpw
+# Blocker Fraud Company - A Fraud Detection Project
 
 ---
 
